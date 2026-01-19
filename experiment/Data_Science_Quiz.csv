@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+"The input 'hello guys, kese ho aap log' features a linguistic blend of English and Hindi. Which NLP term specifically describes this phenomenon of alternating between two or more languages?",a: Code-switching | b: Cross-lingual Embedding | c: Transliteration | d: Semantic Shift,a
+"When performing Sentiment Analysis on the phrase 'hello guys, kese ho aap log', how would a standard VADER or TextBlob classifier most likely score the polarity?",a: Negative | b: Neutral to Positive | c: Highly Polarized/Negative | d: Objective/Non-sentimental,b
+"The presence of irregular spacing before punctuation (e.g., 'guys ,') can introduce noise into a model. This issue is addressed during which phase of the NLP pipeline?",a: Feature Engineering | b: Data Preprocessing and Normalization | c: Model Validation | d: Hyperparameter Optimization,b
+"If a model is trained to map the input text to a specific 'Celebrity Name' from a predefined list of 50 individuals, what is the specific nature of this machine learning task?",a: Linear Regression | b: Unsupervised Clustering | c: Multi-class Classification | d: Sequence-to-Sequence Generation,c
+"In the preprocessing stage, segmenting the string 'hello guys' into discrete components ['hello', 'guys'] is a foundational step known as:",a: Tokenization | b: Stemming | c: Lemmatization | d: Part-of-Speech Tagging,a

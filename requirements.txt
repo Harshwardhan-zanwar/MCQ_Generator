@@ -1,0 +1,8 @@
+openai
+langchain
+streamlit
+python-dotenv
+pypdf
+
+#for installation of local packages
+-e .
