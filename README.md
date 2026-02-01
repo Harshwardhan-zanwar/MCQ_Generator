@@ -30,12 +30,19 @@ Produces structured output (CSV/JSON) for further use.
 
 📁 Project Structure
 MCQ_Generator/
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── StreamlitAPP.py
+
 ├── response.json
+
 ├── setup.py
+
 ├── test.py
+
 └── src/
 
 
