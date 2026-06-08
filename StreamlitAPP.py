@@ -11,7 +11,7 @@ from src.mcqgenerator.logger import logging
 
 # loading json file
 # Fixed: Use raw string (r prefix) or forward slashes for Windows paths
-with open(r'C:\GEN AI\MCQ_Generator\response.json', 'r') as file:
+with open('response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 # creating a title for the app
